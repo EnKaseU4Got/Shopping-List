@@ -1,0 +1,17 @@
+{
+    "Ice Cream": {
+        "completed": false
+    },
+    "Toaster": {
+        "completed": false
+    },
+    "Tomato": {
+        "completed": false
+    },
+    "Bread": {
+        "completed": true
+    },
+    "Mazoe": {
+        "completed": false
+    }
+}
